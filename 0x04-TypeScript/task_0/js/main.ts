@@ -10,7 +10,7 @@ const student1: Student = {
 	lastName: "Shannon",
 	age: 40,
 	location: "Nakuru"
-};
+}; 
 
 const student2: Student = {
         firstName: "John",
